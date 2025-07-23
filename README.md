@@ -23,7 +23,7 @@ Ubuntu için kurulumu:
 
 
 sudo apt-get update
-sudo apt-get install g++ libcurl4-openssl-dev```
+sudo apt-get install g++ libcurl4-openssl-dev
 
 ### Derleme
 g++ konum.cpp -o konum -lcurl
