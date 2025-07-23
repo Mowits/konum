@@ -28,3 +28,5 @@ sudo apt-get install g++ libcurl4-openssl-dev
 ### Derleme
 g++ konum.cpp -o konum -lcurl
 
+#### Çalıştırma
+./konum
