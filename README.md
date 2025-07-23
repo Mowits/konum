@@ -21,6 +21,10 @@ Bu program, Linux sistemde kullanıcı IP adresine göre konum bilgisini göster
 
 Ubuntu için kurulumu:
 
-```bash
+
 sudo apt-get update
-sudo apt-get install g++ libcurl4-openssl-dev
+sudo apt-get install g++ libcurl4-openssl-dev```
+
+### Derleme
+g++ konum.cpp -o konum -lcurl
+
